@@ -26,12 +26,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](images\screenshot.PNG)
+![screenshot](images\screenshot.PNG)
 
 ### Links
 
--   Solution URL: [Add solution URL here](https://your-solution-url.com)
--   Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+-   Live site URL: [Live site](https://ifat-fahim.github.io/single-price-grid-component/)
+-   Solution: [Solution](https://github.com/Ifat-Fahim/single-price-grid-component)
 
 ## My process
 

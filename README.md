@@ -6,8 +6,9 @@
 
 ### Screenshot
 
-![](images\screenshot.PNG)
+![screenshot](images\screenshot.PNG)
 
 ### Links
 
-[Live Site Url]()
+[Live Site](https://ifat-fahim.github.io/single-price-grid-component/)
+[Solution](https://github.com/Ifat-Fahim/single-price-grid-component)
