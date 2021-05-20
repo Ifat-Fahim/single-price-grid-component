@@ -6,7 +6,7 @@
 
 ### Screenshot
 
-![screenshot](images\screenshot.PNG)
+![screenshot](./images/screenshot.PNG)
 
 ### Links
 
